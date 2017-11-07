@@ -1,0 +1,25 @@
+{
+  "name": "workflow",
+  "version": "1.0.0",
+  "description": "my web workflow with npm, sass, gulp and more",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosesierra/workflow.git"
+  },
+  "keywords": [
+    "sass",
+    "np",
+    "git",
+    "gulp"
+  ],
+  "author": "carlosesierra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosesierra/workflow/issues"
+  },
+  "homepage": "https://github.com/carlosesierra/workflow#readme"
+}
